@@ -14,5 +14,11 @@ However, it turns out that we need far fewer people.
 ![image](https://tinyurl.com/ycfsd6wy)   
 
 
-## Graph 
+## Graph made from the results of code
 ![image](https://github.com/vaithak/Birthday-Paradox-Simulation/blob/master/graph.png)  
+
+## Compile and run code
+```
+  $ g++ -o birthday birthday.c++
+  $ ./birthday
+```  
