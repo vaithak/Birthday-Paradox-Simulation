@@ -7,4 +7,4 @@
 
 
 ## Graph 
-![image](https://github.com/vaithak/Birthday-Paradox-Simulation/blob/master/image.png)  
+![image](https://github.com/vaithak/Birthday-Paradox-Simulation/blob/master/graph.png)  
